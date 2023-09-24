@@ -35,4 +35,7 @@ public class JavaApplication75 {
         });
         frame.setVisible(true);
     }
+    private static void func(){
+        System.out.println("this is a simple print statement");
+    }
 }
